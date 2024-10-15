@@ -1,7 +1,7 @@
 {
-  "name": "@nikbelikov/tsp-solver",
-  "version": "1.1.4",
-  "description": "This package will help you in solving the traveling salesman problem.",
+  "name": "@ajinkyapatil/tsp-solver",
+  "version": "1.1.5",
+  "description": "This package will help you in solving the traveling salesman problem. Fork of @nikbelikov/tsp-solver",
   "files": [
     "lib/**/*"
   ],
@@ -32,10 +32,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nikbelikov/tsp-solver"
+    "url": "https://github.com/ajinkya/tsp-solver"
   },
   "bugs": {
-    "url": "https://github.com/nikbelikov/tsp-solver/issues"
+    "url": "https://github.com/ajinkya/tsp-solver/issues"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
